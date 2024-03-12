@@ -25,10 +25,6 @@ int main(){
             cout<<0<<"\n";
             continue;
         }
-        if(n==0){
-            cout<<1<<"\n";
-            continue;
-        }
         vector<long long int> dp(n+1,-1);
         long long int ans = solve(n,dp);
         cout<<ans<<"\n";
