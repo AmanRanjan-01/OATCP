@@ -1,3 +1,4 @@
+# Approach to the problem
 1. To find the maximum number of ice creams the boy can buy, he can start picking the cheapest ice creams.
 2. By picking the cheapest ice creams , he can buy the more number of ice creams, as he may be left with some coins.
 3. To perform this we will sort the costs array, then will loop through the cost array.
