@@ -1,4 +1,4 @@
-# Approach
+# Algorithm
 1. First, we find a node which have a degree 1.
 2. If the degree node 1 is not present then we traverse from any other node.
 3. After finding the node, we use the DFS based Traversal for constructing the path.

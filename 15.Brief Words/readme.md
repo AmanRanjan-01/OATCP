@@ -1,4 +1,4 @@
-# ALGORITHM:
+# ALGORITHM - 
 1. The Algorithm aims to generate short forms for a set of dictionary words by considering all possible subsequences of length one to four characters from each word
 2. To find the all subsequences , we have used the recursive function , which generates all the string upto length 4.
 3. It maintains a current string and explores including or excluding each character from the input string to build all possible subsequences.
