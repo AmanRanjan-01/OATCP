@@ -1,0 +1,9 @@
+INPUT:
+4
+5 1
+4 5
+11 9
+9 4
+
+OUTPUT:
+Valid arrangement is {(11,9),(9,4),(4,5),(5,1)}
